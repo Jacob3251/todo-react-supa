@@ -1,5 +1,17 @@
 # [Live Site Link](https://notepadsonlinewebproject.netlify.app/)
 
+# Technogies used:
+
+### React
+
+### SupaBase
+
+### Tailwind CSS
+
+### React Router
+
+### Hero Icons
+
 ## Available Features:
 
 ### Add Notes

@@ -13,7 +13,6 @@ const DeleteTask = (props) => {
     //  toggle shown state
     setIsShown((current) => !current);
 
-    //  or simply set it to true
     // setIsShown(true);
   };
 
